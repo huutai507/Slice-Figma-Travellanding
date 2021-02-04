@@ -768,6 +768,7 @@ img {
   }
   .wrapper .featured__info {
     margin: 0;
+    align-items: normal;
   }
   .wrapper .featured__info a {
     font-size: 1.2rem;
@@ -807,7 +808,7 @@ img {
     margin: 0;
   }
   .wrapper .guide__info-title {
-    font-size: 3rem;
+    font-size: 2.6rem;
   }
   .wrapper .testimonial__inner {
     flex-direction: column;
@@ -833,12 +834,13 @@ img {
   }
   .wrapper .stories__info {
     margin: 0;
+    align-items: normal;
   }
   .wrapper .stories__info a {
     font-size: 1.2rem;
   }
   .wrapper .stories__info-title {
-    font-size: 2.5rem;
+    font-size: 2.6rem;
   }
   .wrapper .stories__info-link {
     font-size: 1rem;

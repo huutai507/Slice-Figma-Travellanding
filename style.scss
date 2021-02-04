@@ -847,6 +847,7 @@ img {
       }
       &__info {
         margin: 0;
+        align-items: normal;
         a {
           font-size: 1.2rem;
         }
@@ -887,7 +888,7 @@ img {
       }
       &__info {
         &-title {
-          font-size: 3rem;
+          font-size: 2.6rem;
         }
         width: auto;
         height: auto;
@@ -923,11 +924,12 @@ img {
       }
       &__info {
         margin: 0;
+        align-items: normal;
         a {
           font-size: 1.2rem;
         }
         &-title {
-          font-size: 2.5rem;
+          font-size: 2.6rem;
         }
         &-link {
           font-size: 1rem;
